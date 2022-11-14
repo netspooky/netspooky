@@ -9,4 +9,4 @@
 Links
 
 - https://n0.lol 
-- <a rel="me" rel="nofollow" href="https://tragi.cc/@netspooky">Mastodon</a>
+- <a rel="nofollow" href="https://tragi.cc/@netspooky" rel="me">Mastodon</a>
